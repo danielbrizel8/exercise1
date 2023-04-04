@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+.sport5{
+    width: 200px;
+    height: 200px;
+}
+.youtube{
+    width: 200px;
+    height: 200px;
+}
+.one{
+    width: 200px;
+    height: 200px;
+}
+.linkedin{
+    width: 200px;
+    height: 200px;
+}
+#pictures {
+    display: flex;
+    justify-content: center;
+}
+#brake{
+    background-color: white;
+    margin-top: 500px;
+    height: 500px;
+}
